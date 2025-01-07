@@ -29,7 +29,8 @@ CSS3: Sayfanın stilize edilmesi için, buna dahil olarak:<br>
 ☁ Animasyonlar ve geçişler ile etkileşimi geliştirmek.<br>
 
 
-
+@ İletişim :muratalisahin61@gmail.com
+linked:https://www.linkedin.com/in/murat-ali-%C5%9Fahin-075a31231/
 ☁ Amazon_clone AmazonPrimeGIF
 <br><br>
 ![alt text](<Ekran Kaydı-1.gif>)
